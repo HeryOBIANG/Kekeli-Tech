@@ -10,3 +10,6 @@ Console.Write(" messages in your inbox.");
 Console.Write(" The temperature is ");
 Console.Write(dec);
 Console.Write(" celsius");
+
+
+// Lien énoncé: https://learn.microsoft.com/fr-fr/training/modules/csharp-literals-variables/6-challenge
