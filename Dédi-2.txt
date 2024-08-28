@@ -1,0 +1,12 @@
+string nom = "Bob";
+int message = 3;
+double dec = 34.4;
+
+Console.Write("Hello, ");
+Console.Write(nom);
+Console.Write("! You have ");
+Console.Write(message);
+Console.Write(" messages in your inbox.");
+Console.Write(" The temperature is ");
+Console.Write(dec);
+Console.Write(" celsius");
