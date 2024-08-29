@@ -41,4 +41,5 @@ Zahirah:           {(zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5) / (de
 Jeong:             {(jeong1 + jeong2 + jeong3 + jeong4 + jeong5) / (decimal)currentAssignments}  A");
 
 
+//J'ai préféré ne pas utilisé de variables intermédiaire comme suggéré dans les cours précédent 
 //Liens énoncé: https://learn.microsoft.com/fr-fr/training/modules/guided-project-calculate-print-student-grades/5-exercise-format-strings
